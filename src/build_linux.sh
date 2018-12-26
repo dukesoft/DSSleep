@@ -12,4 +12,5 @@
 #g++ -m32 -shared -Wl,-soname,libDSSleep.so.0 -Wl,-rpath,"\$ORIGIN" -o libDSSleep.so DSSleep.o -L.
 
 g++ -Wall -fPIC -c DSSleep.cpp
-g++ -shared -Wl,-soname,libdssleep.so.1 -o libdssleep.so.1.0 *.o
+g++ -shared -Wl,-soname,DSSleep.so -o DSSleep.so *.o
+rm *.o
