@@ -43,8 +43,7 @@
 		<Compiler>
 			<Add option="-std=c++11" />
 		</Compiler>
-		<Unit filename="main.cpp" />
-		<Unit filename="main.h" />
+		<Unit filename="DSSleep.cpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />
