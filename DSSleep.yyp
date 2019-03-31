@@ -191,6 +191,14 @@
             }
         },
         {
+            "Key": "8427047f-9ef8-4c77-89f3-9c20623d07b6",
+            "Value": {
+                "id": "af48e399-1983-4803-b81f-a9b21284224f",
+                "resourcePath": "options\\ios\\options_ios.yy",
+                "resourceType": "GMiOSOptions"
+            }
+        },
+        {
             "Key": "89fbaf44-5067-4af0-a718-29ed0723517d",
             "Value": {
                 "id": "828926f5-f4bc-4630-a898-a527c74e00bf",
@@ -231,11 +239,11 @@
             }
         },
         {
-            "Key": "a04cc30e-215b-42b9-b14c-a153f02c58ba",
+            "Key": "a128950b-5063-4876-b4a6-b99dbd2ea6d1",
             "Value": {
-                "id": "a9f72c49-3a71-4517-a897-982398c14d90",
-                "resourcePath": "views\\a04cc30e-215b-42b9-b14c-a153f02c58ba.yy",
-                "resourceType": "GMFolder"
+                "id": "39b19ee4-a627-4b05-bc66-269582827a75",
+                "resourcePath": "options\\amazonfire\\options_amazonfire.yy",
+                "resourceType": "GMAmazonFireOptions"
             }
         },
         {
@@ -303,19 +311,11 @@
             }
         },
         {
-            "Key": "e9477c5f-ca24-4973-84ef-09c2d02b46fb",
+            "Key": "e42bf5cc-3f46-4d67-a6d0-a4885a11ac3f",
             "Value": {
-                "id": "3dde76a6-1168-46ab-a885-c2a4a072a082",
-                "resourcePath": "views\\e9477c5f-ca24-4973-84ef-09c2d02b46fb.yy",
-                "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "ead2615b-011f-4828-a3f2-649851b9ac23",
-            "Value": {
-                "id": "31213f92-2db1-4927-826c-b0ec99ee7f0f",
-                "resourcePath": "views\\ead2615b-011f-4828-a3f2-649851b9ac23.yy",
-                "resourceType": "GMFolder"
+                "id": "88e79633-43be-4b7e-a8dc-1f7d142abf3f",
+                "resourcePath": "options\\android\\options_android.yy",
+                "resourceType": "GMAndroidOptions"
             }
         },
         {
