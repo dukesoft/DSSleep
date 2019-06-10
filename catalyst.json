@@ -3,6 +3,5 @@
     "description": "Thread safe sleeping extension",
     "license": "MIT",
     "homepage": "https://github.com/dukesoft/DSSleep",
-    "yyp": "DSSleep.yyp",
-    "version": "1.0.1"
+    "yyp": "DSSleep.yyp"
 }
