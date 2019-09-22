@@ -1,5 +1,5 @@
 {
-    "name": "dukesoft/ds-sleep",
+    "name": "dukesoft/dssleep",
     "description": "Thread safe sleeping extension",
     "license": "MIT",
     "homepage": "https://github.com/dukesoft/DSSleep",
